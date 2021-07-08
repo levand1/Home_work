@@ -1,1 +1,1 @@
-ID   | Summary | StepsToReproduce | Result | Exp.Result | Attachments | Enviroment | Preconditions | Assigned |
+ID   | Summary | StepsToReproduce | Result | Exp. Result | Attachments | Enviroment | Preconditions | Assigned |
