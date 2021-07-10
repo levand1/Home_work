@@ -1,0 +1,172 @@
+{
+	"id": "e24b9791-f039-4d8c-8f98-5b110e3d526a",
+	"name": "First collection",
+	"timestamp": "2021-07-10T09:21:05.136Z",
+	"collection_id": "32f2a528-0568-4794-9fd5-11b1df9612fe",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "75d8cf8c-723d-4a81-b291-1fa46bab796b",
+			"name": "EP_1",
+			"url": "http://162.55.220.72:5005/get_method?name=Sam&age=67",
+			"time": 87,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				87
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "9ec7375c-44ef-4c18-857d-3c1cf2c4d513",
+			"name": "EP_2",
+			"url": "http://162.55.220.72:5005/user_info_3",
+			"time": 85,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				85
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "bb892961-a7a6-4920-87a3-284a830f3421",
+			"name": "EP_3",
+			"url": "http://162.55.220.72:5005/object_info_1?name=Din&age=23&weight=45",
+			"time": 80,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				80
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "e9188353-eeb6-4fc0-8566-b0e2addfe468",
+			"name": "EP_4",
+			"url": "http://162.55.220.72:5005/object_info_2?name=Eri&age=34&salary=2567",
+			"time": 80,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				80
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "34f4e60f-14c1-4c45-91fd-8ea87203386c",
+			"name": "EP_5",
+			"url": "http://162.55.220.72:5005/object_info_3?name=Urti&age=23&salary=656",
+			"time": 74,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				74
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "d17d62ac-c940-4ea9-b99e-2934c76bb62e",
+			"name": "EP_6",
+			"url": "http://162.55.220.72:5005/object_info_4?name=Bim&age=45&salary=111",
+			"time": 84,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				84
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "6369037d-e98e-4cf1-a676-3258a127c947",
+			"name": "EP_7",
+			"url": "http://162.55.220.72:5005/user_info_2",
+			"time": 83,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				83
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 573,
+	"collection": {
+		"requests": [
+			{
+				"id": "75d8cf8c-723d-4a81-b291-1fa46bab796b",
+				"method": "GET"
+			},
+			{
+				"id": "9ec7375c-44ef-4c18-857d-3c1cf2c4d513",
+				"method": "POST"
+			},
+			{
+				"id": "bb892961-a7a6-4920-87a3-284a830f3421",
+				"method": "GET"
+			},
+			{
+				"id": "e9188353-eeb6-4fc0-8566-b0e2addfe468",
+				"method": "GET"
+			},
+			{
+				"id": "34f4e60f-14c1-4c45-91fd-8ea87203386c",
+				"method": "GET"
+			},
+			{
+				"id": "d17d62ac-c940-4ea9-b99e-2934c76bb62e",
+				"method": "GET"
+			},
+			{
+				"id": "6369037d-e98e-4cf1-a676-3258a127c947",
+				"method": "POST"
+			}
+		]
+	}
+}
